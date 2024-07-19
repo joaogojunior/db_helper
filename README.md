@@ -1,0 +1,1 @@
+Classe singleton para conexão em serviços mysql / mariadb utilizando pymysql sendo capaz de fazer operações básicas como: conectar, fazer querys, inserts, updates e deletes de maneira simplificada.
